@@ -2,7 +2,8 @@
 # See README.md for instructions on how to do this
 
 def fizbuzz(number)
-  if number
+  if number/3 = Integer
+    puts "fizz"
 else
   return nil 
   
