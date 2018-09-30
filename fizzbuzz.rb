@@ -3,7 +3,7 @@
 
 def fizbuzz(number)
   if number/3 
-    puts "fizz"
+    puts "Fizz"
 else
   return nil 
   
