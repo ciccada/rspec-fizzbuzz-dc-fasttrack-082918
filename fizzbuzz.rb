@@ -10,4 +10,4 @@ else
 end 
 end
 
-number = 3
+fizbuzz(3)
