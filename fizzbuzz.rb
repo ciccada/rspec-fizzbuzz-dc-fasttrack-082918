@@ -3,3 +3,8 @@
 
 def fizbuzz(number)
   if number
+else
+  return nil 
+  
+end 
+end
